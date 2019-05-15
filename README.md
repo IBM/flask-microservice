@@ -16,7 +16,7 @@
 
 # Create and deploy a Python Flask web application
 
-> We have similar applications available for [Go](https://github.com/IBM/go-web-app), [Java Liberty](https://github.com/IBM/java-liberty-web-app), [Swift](https://github.com/IBM/swift-web-app), [Spring](https://github.com/IBM/spring-web-app), and [Node](https://github.com/IBM/nodejs-web-app).
+> We have similar applications available for [Go](https://github.com/IBM/go-microservice), [Java Liberty](https://github.com/IBM/java-liberty-microservice), [Spring](https://github.com/IBM/spring-microservice), and [Node](https://github.com/IBM/nodejs-microservice).
 
 In this sample application, you will create a Python microservice using Flask. A microservice is an individual component of an application that follows the **microservice architecture** - an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice exposes a RESTful API matching a [Swagger](http://swagger.io) definition.
 
