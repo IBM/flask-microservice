@@ -14,7 +14,7 @@
 </p>
 
 
-# Create and deploy a Python Flask web application
+# Create and deploy a Python Flask microservice
 
 > We have similar applications available for [Go](https://github.com/IBM/go-microservice), [Java Liberty](https://github.com/IBM/java-liberty-microservice), [Spring](https://github.com/IBM/spring-microservice), and [Node](https://github.com/IBM/nodejs-microservice).
 
