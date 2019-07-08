@@ -22,12 +22,12 @@ In this sample application, you will create a Python microservice using Flask. A
 
 ## Steps
 
-You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/starter-kits/6d62978c-a8a6-38fc-bac6-e3ee9c381e65/python-microservice-with-flask) or [build it locally](#building-locally) by cloning this repo first. Once your app is live, you can access the `/health` endpoint to quickly build out your cloud native application.
+You can [deploy this application to IBM Cloud](https://cloud.ibm.com/developer/appservice/create-app?starterKit=0702b041-860f-39a6-8ef0-48d7528dee7d) or [build it locally](#building-locally) by cloning this repo first. Once your app is live, you can access the `/health` endpoint to quickly build out your cloud native application.
 
 ### Deploying to IBM Cloud
 
 <p align="center">
-    <a href="https://cloud.ibm.com/developer/appservice/starter-kits/6d62978c-a8a6-38fc-bac6-e3ee9c381e65/python-microservice-with-flask">
+    <a href="https://cloud.ibm.com/developer/appservice/create-app?starterKit=0702b041-860f-39a6-8ef0-48d7528dee7d">
     <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
     </a>
 </p>
