@@ -1,3 +1,10 @@
+# WARNING: This repository is no longer maintained :warning:
+
+> Please see the replacement repositories available for [Node.js](https://github.com/IBM/node-express-app), [Go](https://github.com/IBM/go-gin-app), [Java Liberty](https://github.com/IBM/java-liberty-app), [Java Spring](https://github.com/IBM/java-spring-app), [Python Flask](https://github.com/IBM/python-flask-app), [Python Django](https://github.com/IBM/python-django-app), and [Swift](https://github.com/IBM/swift-kitura-app).
+
+> This repository will not be updated. The repository will be kept available in read-only mode.
+
+
 <p align="center">
     <a href="https://cloud.ibm.com/">
         <img src="https://landscape.cncf.io/logos/ibm-cloud-kcsp.svg" height="100" alt="IBM Cloud">
